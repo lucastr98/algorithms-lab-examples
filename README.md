@@ -1,1 +1,3 @@
-# algorithms-lab-examples
+# Algorithms Lab
+The Algorithms Lab is a practical Course in the Computer Science Master's program at ETH Zurich. With tutorials and over 60 different problems students learn to solve algorithmic problems given by a textual description. This includes understanding the problem setting, finding appropriate modeling, choosing suitable algorithms and implementing them in C++ with the help of the C++ Standard Library, the Boost Graph Library (BGL) and the Computational Geometry Algorithms Library (CGAL). In this repository you can find a selection of 9 problems, each covering one topic of the course. All the solutions were derived and implemented by me.
+
